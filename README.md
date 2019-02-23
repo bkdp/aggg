@@ -6,10 +6,10 @@ aggg项目，使用python爬取巨潮资讯网站里面沪深股市中某个指�
 巨潮资讯官网：
 http://www.cninfo.com.cn
 
-###测试环境：
+### 测试环境：
 - python3
 - 依赖：request、json、re （均为内置模块）
 
-###如何测试：
+### 如何测试：
 - 终端底下直接执行：python3 aggg.py
 - json数据默认保存到同级目录下
